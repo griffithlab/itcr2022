@@ -1,6 +1,6 @@
 # Site settings
 title: ITCR 2022
-email: obigriffith@wustl.edu
+email: help@itcr2022.org
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
