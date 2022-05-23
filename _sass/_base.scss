@@ -27,6 +27,15 @@ a {
     }
 }
 
+.secondary_text {
+  @include transition-all;
+  color: #B3B3B3;
+  &:hover,
+  &:focus {
+      color: darken(#B3B3B3, 10%);
+  }
+}
+
 h1,
 h2,
 h3,
